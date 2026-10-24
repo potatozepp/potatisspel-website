@@ -6,27 +6,27 @@
       <path d="M8 39l17 -3m-10 7l17 -4m58 -3l14 -3m-10 8l14 -3M49 87l20 -4m-12 9l20 -5m54 3l14 -5M60 20l4 6l8 1M106 73l-7 5l2 7" fill="none" stroke="#45463B" stroke-width=".7" opacity=".35" />
     </pattern>
   </defs>
-  
+
   <path d="M7 4L672 5L676 432L5 435Z" fill="#A8B6A2" stroke="#45463B" stroke-width="2" />
   <path d="M20 21L660 20L658 420L21 422Z" fill="#DCE3D4" />
   <path d="M22 22H658V419H22Z" fill="url(#stone)" />
-  
+
   <path d="M26 50L113 72L113 368L27 414Z" fill="#A2B29E" stroke="#697465" stroke-width="1.4" />
   <path d="M654 50L567 72L567 368L653 414Z" fill="#B6C4AD" stroke="#697465" stroke-width="1.4" />
   <path d="M114 49L566 48L566 379L114 379Z" fill="#D3DCCB" stroke="#697465" stroke-width="1.3" />
   <path d="M115 50H565V379H115Z" fill="url(#stone)" opacity=".7" />
   <path d="M27 414L113 379H567L653 414L651 424L28 426Z" fill="#CED6C1" stroke="#697465" stroke-width="1.3" />
   <path d="M113 379L27 414M192 380L142 424M487 380L535 424M566 379L653 414M56 404L623 402M34 417L646 415" fill="none" stroke="#75836F" stroke-width="1" />
-  
+
   <path d="M28 107L111 120M28 164L111 171M28 224L111 225M28 284L111 277M28 346L111 329M64 60L63 113M78 116L76 168M53 167L55 223M81 226L80 279M55 284L57 339M83 337L82 390M652 107L569 120M652 164L569 171M652 224L569 225M652 284L569 277M652 346L569 329M616 60L617 113M602 116L604 168M627 167L625 223M599 226L600 279M625 284L623 339M597 337L598 390" fill="none" stroke="#697465" stroke-width="1.2" opacity=".6" />
   <path d="M36 152l18 -4m-15 9l18 -4m28 94l17 -3m-16 8l16 -3M635 196l-20 -4m17 10l-18 -4m-21 102l-15 -2m16 8l-15 -2" fill="none" stroke="#5d4a3e" stroke-width=".8" opacity=".45" />
-  
+
   <path d="M15 14L663 13L661 49L18 51Z" fill="#B7B29C" stroke="#45463B" stroke-width="1.7" />
   <path d="M18 44L661 43L660 53L20 55Z" fill="url(#pigment-16)" opacity=".55" />
   <path d="M17 52L30 53L30 415L16 421ZM649 52L662 50L664 421L650 416Z" fill="#B7B29C" stroke="#45463B" stroke-width="1.5" />
   <path d="M260 20L649 18M260 37L649 35M22 75L24 390M657 73L657 398M594 25q16 -7 35 -1m-29 4l24 -1" fill="none" stroke="#697465" stroke-width=".8" opacity=".65" />
   <g fill="#45463B"><circle cx="26" cy="23" r="2" /><circle cx="653" cy="23" r="2" /><circle cx="24" cy="405" r="2" /><circle cx="656" cy="405" r="2" /></g>
-  
+
   <path d="M39 361Q58 352 77 359L81 400Q60 411 39 401Z" fill="#B7B29C" stroke="#45463B" stroke-width="1.4" />
   <ellipse cx="58" cy="361" rx="19" ry="5" fill="#D0C6B0" stroke="#45463B" stroke-width="1.2" />
   <path d="M48 366L47 400M59 367L60 405M69 366L72 401" fill="none" stroke="#697465" stroke-width="1" />
@@ -35,4 +35,3 @@
   <path d="M605 380L635 377M607 402L636 398M611 379L612 403M625 377L628 400M606 381L634 398" fill="none" stroke="#75836F" stroke-width="1" />
   <path d="M35 427L645 425M39 431L641 430" fill="none" stroke="#697465" stroke-width=".8" opacity=".5" />
 </svg>
-

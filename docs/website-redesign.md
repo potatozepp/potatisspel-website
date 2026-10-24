@@ -17,4 +17,3 @@ Browser review at desktop width 1348 and mobile frame widths 390 and 320 (375/30
 Local HTML links and image paths resolve; SVG XML parses. Legal documents and CNAME match main byte for byte. Sampled text contrast ratios: ink/paper 10.60:1; muted/sage 4.99:1; button text/forest 7.65:1; muted/game background 5.41:1. Visible navigation links and buttons have at least 48px heights, keyboard focus indicators and a skip link. Reduced-motion preferences disable smooth scrolling.
 
 The existing GitHub Pages setup is retained. Merge the website PR to publish through the repository's normal process; no new hosting project or domain is created.
-

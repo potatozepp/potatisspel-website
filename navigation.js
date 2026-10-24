@@ -2,7 +2,7 @@
 (() => {
   const panels = [...document.querySelectorAll('[data-view]')];
   const main = document.getElementById('main');
-  const links = [...document.querySelectorAll('header a')];
+  const links = [...document.querySelectorAll('header > .brand, header > nav:not(.language-switch) a')];
   function showView(moveFocus = false) {
     const hash = window.location.hash.slice(1);
     const name = hash === 'towercellar' ? 'games' : hash;

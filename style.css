@@ -135,5 +135,4 @@ header > .brand img {
   width: clamp(78px, 8vw, 106px);
   height: auto;
   margin-block: 8px;
-  mix-blend-mode: multiply;
 }

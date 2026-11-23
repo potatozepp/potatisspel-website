@@ -130,3 +130,10 @@ header > nav:not(.language-switch) { justify-self: end; }
   header > .language-switch { grid-column: 2; grid-row: 1; }
   .hero-copy h1 { font-size: clamp(3.1rem, 14vw, 3.8rem); }
 }
+
+header > .brand img {
+  width: clamp(78px, 8vw, 106px);
+  height: auto;
+  margin-block: 8px;
+  mix-blend-mode: multiply;
+}
